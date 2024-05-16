@@ -1,0 +1,7 @@
+UI_TR = {
+  UI_SWSP_Option_Improvised = "Uyduruk Silahlar (Tükenmez Kalem, Kalem)",
+  UI_SWSP_Option_WeaponType = "Silah Tipini Göster",
+  UI_SWSP_Option_MaxHit     = "Maks Vuruþu Göster",
+  UI_SWSP_Option_Tree       = "Aðaç Kýrma Paydasýný Göster",
+  UI_SWSP_Option_TextColor  = "Metin Rengi",
+} 

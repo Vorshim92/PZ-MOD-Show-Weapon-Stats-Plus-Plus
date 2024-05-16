@@ -1,0 +1,7 @@
+UI_ES = {
+  UI_SWSP_Option_Improvised  = "Armas Improvisadas (Pluma, Lápiz)",
+  UI_SWSP_Option_WeaponType  = "Mostrar Tipo de Arma",
+  UI_SWSP_Option_MaxHit      = "Mostrar Golpe Máximo",
+  UI_SWSP_Option_Tree        = "Mostrar Árbol Oportunidad de Ruptura",
+  UI_SWSP_Option_TextColor   = "Color del Texto",
+}

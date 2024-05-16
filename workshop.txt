@@ -1,0 +1,6 @@
+version=1
+id=3247410235
+title=Show Weapon Stats Plus Plus
+description=Added BaseSpeed!
+tags=Build 41;Framework;Interface;Items;Weapons
+visibility=public

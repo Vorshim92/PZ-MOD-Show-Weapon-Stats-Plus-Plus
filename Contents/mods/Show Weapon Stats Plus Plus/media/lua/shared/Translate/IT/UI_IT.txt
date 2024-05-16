@@ -1,0 +1,7 @@
+UI_EN = {
+  UI_SWSP_Option_Improvised  = "Armi Improvvisate (Penna, Matita)",
+  UI_SWSP_Option_WeaponType  = "Mostra Tipo di Arma",
+  UI_SWSP_Option_MaxHit      = "Mostra Colpo Massimo",
+  UI_SWSP_Option_Tree        = "Mostra Probabilità di Rottura dell'Albero",
+  UI_SWSP_Option_TextColor   = "Colore del Testo",
+}

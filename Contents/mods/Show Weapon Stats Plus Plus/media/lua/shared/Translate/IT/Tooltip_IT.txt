@@ -1,0 +1,22 @@
+Tooltip_EN = {
+  Tooltip_SWSP_Axe                = "Ascia",
+  Tooltip_SWSP_LongBlade          = "Lama Lunga",
+  Tooltip_SWSP_SmallBlade         = "Lama Corta",
+  Tooltip_SWSP_Blunt              = "Contundente Lungo",
+  Tooltip_SWSP_SmallBlunt         = "Contundente Corto",
+  Tooltip_SWSP_Spear              = "Lancia",
+  Tooltip_SWSP_Improvised         = "Improvvisata",
+  Tooltip_SWSP_Firearm            = "Arma da Fuoco",
+  Tooltip_SWSP_Damage             = "Danno: %s- %s (+%d%%)",
+  Tooltip_SWSP_Range              = "Gittata: %s - %s",
+  Tooltip_SWSP_MaxHit             = "Colpo Massimo: %d",
+  Tooltip_SWSP_Crit               = "Crit: %s%% (+%d%%), %sx",
+  Tooltip_SWSP_Condition          = "Condizione: %d/%d",
+  Tooltip_SWSP_Speed			  = "Velocità: %s",
+  Tooltip_SWSP_BreakChance        = "Probabilità di Rottura: 1/(%d + %d)",
+  Tooltip_SWSP_TreeBreakChance    = "Tree Break Chance: 1/%d",
+  Tooltip_SWSP_GunAccuracy        = "Precisione: %d%% (+%d)%%",
+  Tooltip_SWSP_GunRange           = "Gittata: %s - %s (+%d%%)",
+  Tooltip_SWSP_GunMisc            = "Mira/Ricarica/Rinculo time: %d/%d/%d"
+  Tooltip_SWSP_GunNoise           = "Rumore Raggio/Volume: %d/%d",
+}

@@ -1,0 +1,21 @@
+Tooltip_TR = {
+  Tooltip_SWSP_Axe              = "Balta",
+  Tooltip_SWSP_LongBlade        = "Uzun Kesici",
+  Tooltip_SWSP_SmallBlade       = "Kýsa Kesici",
+  Tooltip_SWSP_Blunt            = "Uzun Ezici",
+  Tooltip_SWSP_SmallBlunt       = "Kýsa Ezici",
+  Tooltip_SWSP_Spear            = "Mýzrak",
+  Tooltip_SWSP_Improvised       = "Uyduruk Silah",
+  Tooltip_SWSP_Firearm          = "Ateþli Silah",
+  Tooltip_SWSP_Damage           = "Hasar: %s- %s (+%d%%)",
+  Tooltip_SWSP_Range            = "Menzil: %s - %s",
+  Tooltip_SWSP_MaxHit           = "Maks Vuruþ: %d",
+  Tooltip_SWSP_Crit             = "Kritik: %s%% (+%d%%), %sx",
+  Tooltip_SWSP_Condition        = "Kondisyon: %d/%d",
+  Tooltip_SWSP_BreakChance      = "Kýrýlma Olasýlýðý: 1/(%d + %d)",
+  Tooltip_SWSP_TreeBreakChance  = "Aðaç Kýrýlma Olasýlýðý: 1/%d",
+  Tooltip_SWSP_GunAccuracy      = "Ýsabet: %d%% (+%d)%%",
+  Tooltip_SWSP_GunRange         = "Menzil: %s - %s (+%d%%)",
+  Tooltip_SWSP_GunMisc          = "Niþanlama/Doldurma/Tepme süresi: %d/%d/%d"
+  Tooltip_SWSP_GunNoise         = "Ses Alaný/Kuvveti: %d/%d",
+}

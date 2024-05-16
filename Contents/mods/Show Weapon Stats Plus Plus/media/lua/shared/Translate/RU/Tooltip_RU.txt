@@ -1,0 +1,21 @@
+Tooltip_RU = {
+  Tooltip_SWSP_Axe                = "Топор",
+  Tooltip_SWSP_LongBlade          = "Длинный клинок",
+  Tooltip_SWSP_SmallBlade         = "Короткий клинок",
+  Tooltip_SWSP_Blunt              = "Длинный Blunt",
+  Tooltip_SWSP_SmallBlunt         = "Короткий Blunt",
+  Tooltip_SWSP_Spear              = "Копье",
+  Tooltip_SWSP_Improvised         = "Самодельный",
+  Tooltip_SWSP_Firearm            = "Огнестрельное оружие",
+  Tooltip_SWSP_Damage             = "Урон: %s- %s (+%d%%)",
+  Tooltip_SWSP_Range              = "Дальность: %s - %s",
+  Tooltip_SWSP_MaxHit             = "Макс урон: %d",
+  Tooltip_SWSP_Crit               = "Крит: %s%% (+%d%%), %sx",
+  Tooltip_SWSP_Condition          = "Прочность: %d/%d",
+  Tooltip_SWSP_BreakChance        = "Вероятность разрыва: 1/(%d + %d)",
+  Tooltip_SWSP_TreeBreakChance    = "Вероятность разрыва дерева: 1/%d",
+  Tooltip_SWSP_GunAccuracy        = "Точность: %d%% (+%d)%%",
+  Tooltip_SWSP_GunRange           = "Дальность: %s - %s (+%d%%)",
+  Tooltip_SWSP_GunMisc            = "Время прицеливания/перезарядки/отдачи: %d/%d/%d"
+  Tooltip_SWSP_GunNoise           = "Радиус шума/громкость: %d/%d",
+}

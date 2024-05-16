@@ -1,0 +1,7 @@
+UI_RU = {
+  UI_SWSP_Option_Improvised  = "Самодельное оружие (ручка, карандаш)",
+  UI_SWSP_Option_WeaponType  = "Показать тип оружия",
+  UI_SWSP_Option_MaxHit      = "Показать максимальное попадание",
+  UI_SWSP_Option_Tree        = "Показать вероятность разрыва дерева",
+  UI_SWSP_Option_TextColor   = "Цвет текста",
+}
